@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspAsm", "AspAsm\AspAsm.csproj", "{A6BFEAF6-D2C0-46DF-A424-7437BFEC5FC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6BFEAF6-D2C0-46DF-A424-7437BFEC5FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BFEAF6-D2C0-46DF-A424-7437BFEC5FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BFEAF6-D2C0-46DF-A424-7437BFEC5FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BFEAF6-D2C0-46DF-A424-7437BFEC5FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CDDD395-8CA3-4288-82BF-A691622D2384}
+	EndGlobalSection
+EndGlobal
